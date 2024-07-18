@@ -6,3 +6,6 @@ Supports Multiple File Formats: Load and process DOCX, Excel, PDF, and JPEG file
 Parallel Loading: Efficiently loads files in parallel using ThreadPoolExecutor.
 Question-Answering: Uses a Hugging Face Q&A model to answer questions based on the combined content of loaded documents.
 Text Generation: Utilizes a text generation model to extend the answers.# Q-A-BOT-
+
+
+DATASET LINK - https://drive.google.com/drive/folders/130I_X8ZO0xeLGBX73NXLD4EJmBUqRVQI
