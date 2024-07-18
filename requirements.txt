@@ -1,0 +1,7 @@
+!apt-get install tesseract-ocr
+!pip install pytesseract
+!pip install docx2txt 
+!pip install pandas 
+!pip install transformers
+!pip install PyMuPDF
+!pip install pillow 
